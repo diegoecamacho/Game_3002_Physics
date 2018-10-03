@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Intructions.unity
+    guid: a4c567fd5bc18124d997c897d5da7191
+  - enabled: 1
+    path: Assets/Scenes/ForceSimulation_Week2.unity
+    guid: b12696a5076ed4789b7e945978036d16
   m_configObjects: {}
